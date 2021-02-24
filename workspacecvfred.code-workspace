@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "cv",
+			"path": "..\\Cliqueur\\cv"
+		},
+		{
+			"name": "images",
+			"path": "images"
+		}
+	],
+	"settings": {}
+}
